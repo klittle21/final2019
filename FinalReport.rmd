@@ -12,10 +12,14 @@ avast <-read.csv(file="avastivironal.csv",header=TRUE)
 ```
 
 # Introduction
-
 <!--In this section you explain what you are trying to show.  Where did the data come from?  What is the research or other question you are trying to answer?.  If you skimp in this section expect to be marked down in your grade. Paint a picture of the project a couple of paragraphs is expected!-->
 
 a new  preventative aides (abacavirinol) is under test in clinical trials. Analyze the effectiveness of this drug across the board. Consider population subgroups by gender, drug use, and sexual orientation. Finish this!
+For this section, we will focus on whether there is a difference between taking the drug or taking the placebo and getting aids for everyone.
+
+$H_0$: There is no difference between taking the drug or taking the placebo and getting aids for everyone.
+
+$H_1$: There is a difference between taking the drug or taking the placebo and getting aids for everyone. 
 
 # Methods
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->
